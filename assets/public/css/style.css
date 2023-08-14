@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    background-color: #191414;
+    justify-content: center;
+}
+
+#listener-info{
+    background-image: url(/assets/public/imgs/headphones_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
