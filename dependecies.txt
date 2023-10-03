@@ -1,0 +1,14 @@
+axios
+bcrypt
+bootstrap
+cookie-parser
+cors
+dontenv
+express
+express-fileupload
+express-handlebars
+jsonwebtoken
+pg
+querystring
+request
+nodemon
