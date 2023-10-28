@@ -5,6 +5,7 @@ body{
     background-image: url(/imgs/headphones_bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    color: #ffffff;
 }
 
 .navbar {
@@ -23,5 +24,13 @@ body{
     background-color: transparent;
     border-color: #ffffff;
     color: #ffffff;
+    text-align: center;
+}
+
+#signIn-form div {
+    padding: 5px 5px 5px 5px;
+}
+
+#signIn-button {
     text-align: center;
 }

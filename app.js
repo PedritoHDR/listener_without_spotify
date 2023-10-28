@@ -38,4 +38,8 @@ app.get('/', (req, res) => {
     res.render('index');
 });
 
+app.get('/signIn', (req, res) => {
+    res.render('SignIn');
+});
+
 app.listen(port, console.log(`SERVER RUNNING ON ${serverUrl}`));
